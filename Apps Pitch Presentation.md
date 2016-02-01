@@ -16,13 +16,13 @@ How to Use.
 Ui.R With Code
 ========================================================
 
-OPen code UI.R at [UI.R Code](https://fairulshahrizat.shinyapps.io/CalculateBMI/). 
+OPen code UI.R at [UI.R Code](https://github.com/fairulshahrizat/Developing-Data-Products-Project/blob/master/ui.R). 
 
 
 Server.R With Code
 ========================================================
 
-OPen code Server.R at [Server.R Code](https://fairulshahrizat.shinyapps.io/CalculateBMI/). 
+OPen code Server.R at [Server.R Code](https://github.com/fairulshahrizat/Developing-Data-Products-Project/blob/master/server.R). 
 
 Reference
 ========================================================
